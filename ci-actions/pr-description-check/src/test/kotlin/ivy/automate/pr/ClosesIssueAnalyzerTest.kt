@@ -91,7 +91,7 @@ class ClosesIssueAnalyzerTest {
                 ## Does this PR close any GitHub issues? (do not delete)
                 - Closes #{ISSUE_NUMBER}
                 <!--❗For example: - Closes #123 ❗-->
-                <!--💡 Tip: Replace {ISSUE_NUMBER} with the number of Ivy Wallet ISSUE (https://github.com/Ivy-Apps/ivy-wallet/issues)(❗NOT PR❗) which this pull request fixes. If done correctly, you'll see the issue title linked on PR preview. 💡-->
+                <!--💡 Tip: Replace {ISSUE_NUMBER} with the number of Next Wallet ISSUE (https://github.com/Ivy-Apps/ivy-wallet/issues)(❗NOT PR❗) which this pull request fixes. If done correctly, you'll see the issue title linked on PR preview. 💡-->
                 <!--💡 Tip: Multiple issues:
                 - Closes #{ISSUE_NUMBER_1}, closes #{ISSUE_NUMBER_2}, closes #{ISSUE_NUMBER_3}
 
@@ -139,7 +139,7 @@ class ClosesIssueAnalyzerTest {
                 - Closes #123
 
                 <!--❗For example: - Closes #123 ❗-->
-                <!--💡 Tip: Replace {ISSUE_NUMBER} with the number of Ivy Wallet ISSUE (https://github.com/Ivy-Apps/ivy-wallet/issues)(❗NOT PR❗) which this pull request fixes. If done correctly, you'll see the issue title linked on PR preview. 💡-->
+                <!--💡 Tip: Replace {ISSUE_NUMBER} with the number of Next Wallet ISSUE (https://github.com/Ivy-Apps/ivy-wallet/issues)(❗NOT PR❗) which this pull request fixes. If done correctly, you'll see the issue title linked on PR preview. 💡-->
                 <!--💡 Tip: Multiple issues:
                 - Closes #{ISSUE_NUMBER_1}, closes #{ISSUE_NUMBER_2}, closes #{ISSUE_NUMBER_3}
 

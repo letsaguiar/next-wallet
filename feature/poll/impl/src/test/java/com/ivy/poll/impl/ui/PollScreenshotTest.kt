@@ -19,8 +19,8 @@ class PollScreenshotTest(
       PollUi(
         uiState = PollUiState.Content(
           poll = PollUi(
-            title = "How much are you willing to pay for Ivy Wallet?",
-            description = "To continue to exist, Ivy Wallet needs maintenance." +
+            title = "How much are you willing to pay for Next Wallet?",
+            description = "To continue to exist, Next Wallet needs maintenance." +
                 " Updating it requires effort and we can't do it for free.",
             options = persistentListOf(
               "$1/month + taxes \"as-is\" for maintenance",

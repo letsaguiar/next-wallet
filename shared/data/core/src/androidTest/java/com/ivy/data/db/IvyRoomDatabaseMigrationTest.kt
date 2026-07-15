@@ -175,7 +175,7 @@ class IvyRoomDatabaseMigrationTest {
     fun migrateAll() {
         // given:
         // Create earliest version of the database:
-        // for Ivy Wallet versions below 106 are broken :/
+        // for Next Wallet versions below 106 are broken :/
         helper.createDatabase(TestDb, 106).apply {
             close()
         }
